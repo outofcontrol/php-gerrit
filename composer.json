@@ -21,8 +21,7 @@
 		"psr/log": "^1.1@dev",
 		"guzzlehttp/guzzle": "~6.0",
 		"fduch/netrc": "~2.0",
-		"wikimedia/at-ease": "~2.0",
-		"hexmode/http-basic-auth": "*"
+		"wikimedia/at-ease": "~2.0"
 	},
 	"repositories": [
 		{
